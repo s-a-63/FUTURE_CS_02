@@ -6,7 +6,7 @@ This repository contains the phishing simulation exercise conducted as part of *
 
 ## 📁 Repository Structure  
 
-### ▶️ [`Phishing-Reports/`](./GoPhishing/) 
+### ▶️ [`GoPhishing/`](./GoPhishing/) 
 Contains:  
 - Campaign results and analysis  
 - Screenshots of phishing emails and login clone   
