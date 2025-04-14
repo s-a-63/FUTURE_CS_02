@@ -4,26 +4,27 @@ This repository contains the phishing simulation exercise conducted as part of *
 
 ---
 
-📁 Repository Structure  
-▶️ [phishing-reports/](https://github.com/s-a-63/GoPhishing/tree/main/phishing-reports)  
+## 📁 Repository Structure  
+
+### ▶️ [`Phishing-Reports/`](https://github.com/s-a-63/GoPhishing/tree/main/phishing-reports)  
 Contains:  
 - Campaign results and analysis  
 - Screenshots of phishing emails and login clone   
 
-▶️ [final-report-doc/](https://github.com/s-a-63/Final_Report/tree/main/final-report-doc)  
+### ▶️ ['Final-report-doc/'](https://github.com/s-a-63/Final_Report/tree/main/final-report-doc)  
 Contains:  
 📄 `Task2_PhishingSimulation_Report.docx` – The final detailed report including campaign design, recipient responses, and training recommendations  
 
 ---
 
-🧰 Tools Used  
-- Gophish  
-- Social Engineering Toolkit (SET)  
-- Custom Gmail login clone (for credential harvesting simulation)
+## 🧰 Tools Used  
+- **Gophish**  
+- **Social Engineering Toolkit (SET)**  
+- **Custom Gmail login clone** (for credential harvesting simulation)
 
 ---
 
-📌 Summary  
+## 📌 Summary  
 - **Phishing Templates Used**:  
   1. Impersonating a cybercrime portal representative asking to check all folders  
   2. Alert from spoofed email (`cybercrime.analysts1930@gmail.com`) warning of unusual activity and prompting login verification  
@@ -41,7 +42,7 @@ Contains:
 
 ---
 
-🧠 Skills Gained  
+## 🧠 Skills Gained  
 - Social Engineering  
 - Email Security Testing  
 - Phishing Campaign Design  
@@ -49,7 +50,7 @@ Contains:
 
 ---
 
-📞 Contact  
+## 📞 Contact  
 **Author:** M. Sahiti  
 **Email:** sahitim137@gmail.com  
 **Date:** April 2025
