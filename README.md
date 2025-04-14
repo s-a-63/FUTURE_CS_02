@@ -6,12 +6,12 @@ This repository contains the phishing simulation exercise conducted as part of *
 
 ## 📁 Repository Structure  
 
-### ▶️ [`Phishing-Reports/`](https://github.com/s-a-63/GoPhishing/tree/main/phishing-reports)  
+### ▶️ [`Phishing-Reports/`](./GoPhishing/) 
 Contains:  
 - Campaign results and analysis  
 - Screenshots of phishing emails and login clone   
 
-### ▶️ ['Final-report-doc/'](https://github.com/s-a-63/Final_Report/tree/main/final-report-doc)  
+### ▶️ ['Final-report-doc/'](./Final_Report/)  
 Contains:  
 📄 `Task2_PhishingSimulation_Report.docx` – The final detailed report including campaign design, recipient responses, and training recommendations  
 
