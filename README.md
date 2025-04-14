@@ -9,7 +9,7 @@ This repository contains the phishing simulation exercise conducted as part of *
 ### ▶️ [`Phishing_Reports/`](./Phishing_Reports/) 
 Contains:  
 - Campaign results and analysis  
-- Screenshots of phishing emails and login clone   
+- Videos of phishing emails and login clone   
 
 ### ▶️ ['Final-report-doc/'](./Final_Report/)  
 Contains:  
