@@ -1,4 +1,4 @@
-# 🔐 Phishing Simulation  – Task 1
+# 🔐 Phishing Simulation  – Task 2
 
 This repository contains the phishing simulation exercise conducted as part of **Task 2** of the cybersecurity internship. The goal was to simulate real-world phishing attacks to assess employee awareness and recommend security training improvements.
 
